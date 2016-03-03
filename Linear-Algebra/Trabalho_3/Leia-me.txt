@@ -1,0 +1,32 @@
+TRABALHO 3 - ALGEBRÁ LINEAR B - ENG. COMPUTAÇÃO
+
+Alunos: Iury Cleveston, Josias Orlando, Lucas Cielo
+
+PROGRAMAS
+
+1 - matriz_ortogonal.py
+  Este programa verifica se a matriz é ortogonal
+  
+  DADOS DE ENTRADA: 1º - Recebe os elmentos da quadrada.
+		      
+  ---------------------------------------------------------------------------------------------------------------------------
+  
+2 - matriz_transposta_inversa.py
+  Este programa recebe uma matriz 3x3 e retorna a matriz inversa, trasposta e verifica se é simétrica.
+  
+  DADOS DE ENTRADA: 1º - Recebe os elementos da matriz 3x3
+		    		    
+---------------------------------------------------------------------------------------------------------------------------
+  
+3 - conicas.py
+  Este programa recebe uma equação e verifica que tipo de cônica é.
+  
+  DADOS DE ENTRADA: 1º - Recebe uma equação.
+		    		    
+---------------------------------------------------------------------------------------------------------------------------
+  
+4 - gramschmidt.py
+  Este programa recebe uma vetores do R³ e deixa-os ortogonais.
+  
+  DADOS DE ENTRADA: 1º - Recebe três vetores do R³.
+		    		    

@@ -1,0 +1,20 @@
+TRABALHO 2 - ALGEBRÁ LINEAR B - ENG. COMPUTAÇÃO
+
+Alunos: Iury Cleveston, Josias Orlando, Lucas Cielo
+
+PROGRAMAS
+
+1 - reflexao.py
+  Este programa faz a reflexão de uma reta no eixo desejado.
+  
+  DADOS DE ENTRADA: 1º - 2 vetores, cada vetor na forma (x,y,z). Ex.: 5,2,7
+		    2º - Eixo desejado para reflexão
+  
+  ---------------------------------------------------------------------------------------------------------------------------
+  
+2 - quadricas.py
+  Este programa plota quadricas
+  
+  DADOS DE ENTRADA: 1º - Escolha a quadrica que se dejesa plotar;
+		    2º - Escolha as coordenadas
+		    

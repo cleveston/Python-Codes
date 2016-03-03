@@ -1,0 +1,44 @@
+TRABALHO 1 - ALGEBRÁ LINEAR B - ENG. COMPUTAÇÃO
+
+Alunos: Iury Cleveston, Josias Orlando, Lucas Cielo
+
+PROGRAMAS
+
+1 - LI_LD.py
+  Este programa verifica se um sistema de vetores são Linearmente Dependente ou Linearmente Independente.
+  
+  DADOS DE ENTRADA: 3 vetores, cada vetor na forma (x,y,z). Ex.: 5,2,7
+  
+  ---------------------------------------------------------------------------------------------------------------------------
+  
+2 - Plotar_Vetor_2D.py
+  Este programa plota quantos vetores forem desejados em um sistema R².
+  
+  DADOS DE ENTRADA: 1º - Quantidade de Vetores que se deseja plotar;
+		    2º - Vetor na forma (x,y). Ex.: 1,2
+		    
+  ---------------------------------------------------------------------------------------------------------------------------
+  
+3 - Plotar_Vetor_3D.py
+  Este programa plota quantos vetores forem desejados em um sistema R³.
+  
+  DADOS DE ENTRADA: 1º - Quantidade de Vetores que se deseja plotar; 
+		    2º - Vetor na forma (x,y,z). Ex.: 1,2,4
+  
+  ---------------------------------------------------------------------------------------------------------------------------
+    
+4 - Distancias.py
+  Este programa calcula distancia entre:
+  
+  1 - Ponto e Ponto
+    DADOS DE ENTRADA: 1º - Ponto na forma (x,y,z). Ex.: 1,2,5 
+		      2º - Ponto na forma (x,y,z). Ex.: 1,2,5 
+  
+  2 - Ponto e Reta
+    DADOS DE ENTRADA: 1º - Ponto na forma (x,y,z). Ex.: 1,2,5 
+		      2º - Algum Ponto que pertence a reta na forma (x,y,z). Ex.: 1,2,5 
+		      3º - Vetor Diretor da reta na forma (x,y,z). Ex.: 1,2,3
+		     
+  3 - Ponto e Plano
+    DADOS DE ENTRADA: 1º - Ponto na forma (x,y,z). Ex.: 1,2,5 
+		      2º - Equação Geral do Plano na forma (a,b,c,d). Ex.: 1,2,3,8   

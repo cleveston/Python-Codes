@@ -39,14 +39,14 @@ recv1 = ssl_clientSocket.recv(1024)
 print(recv1)
 
 # Send LOGIN command and print server response.
-loginCommand = base64.b64encode('iurycl@gmail.com'.encode('utf-8'))
+loginCommand = base64.b64encode('EMAIL@gmail.com'.encode('utf-8'))
 loginCommand = loginCommand + '\r\n'.encode('utf-8')
 ssl_clientSocket.send(loginCommand)
 recv1 = ssl_clientSocket.recv(1024)
 print(recv1)
 
 # Send PASSWORD command and print server response.
-passwordCommand = base64.b64encode('nodigasnadaparaninguem'.encode('utf-8'))
+passwordCommand = base64.b64encode('MINHA_SENHA_VC_N_VAI_TER'.encode('utf-8'))
 passwordCommand = passwordCommand + '\r\n'.encode('utf-8')
 ssl_clientSocket.send(passwordCommand)
 recv1 = ssl_clientSocket.recv(1024)
